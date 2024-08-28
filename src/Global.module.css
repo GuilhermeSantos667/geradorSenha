@@ -2,7 +2,7 @@ html, body {
   height: 100%;
   margin: 0;
   padding: 0;
-  overflow-x: hidden; /* Oculta a rolagem horizontal */
+  overflow-x: hidden; 
 }
 
 * {
@@ -23,7 +23,7 @@ html, body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  overflow: hidden; /* Oculta qualquer rolagem dentro da .container */
+  overflow: hidden;
 }
 
 .itens {
